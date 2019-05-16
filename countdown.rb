@@ -1,7 +1,7 @@
 #write your code here
 
 def countdown(number)
-  counter = 12
+  counter = 0
   while counter < 13
   puts "#{counter} SECOND(S)!"
   break if counter < 1 
